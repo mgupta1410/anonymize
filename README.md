@@ -5,7 +5,7 @@ Anonymizing people, organizations and locations using Spacy NER.
 ```
 python3 -m pip install --user virtualenv
 python3 -m virtualenv venv
-source anon/bin/activate
+source venv/bin/activate
 ```
 
 ### Install dependencies in venv
