@@ -1,5 +1,5 @@
 # Text Anonymization
-Anonymizing people, organizations and locations using Spacy NER. 
+Anonymizing Named Entities like people, organizations and locations using Named Entity Reocgnition. 
 
 ### Install and activate Python 3 virtualenv
 ```
