@@ -15,4 +15,4 @@ pip install tabulate
 ```
 
 ### Run Jupyter notebook
-Refer Jupyter Notebook `anonymize.ipynb` for further modifications.
+Refer to Jupyter Notebook `anonymize.ipynb` for further modifications.
