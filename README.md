@@ -1,5 +1,5 @@
 # Text Anonymization
-Anonymizing people, organizations and locations using Spacy NER. 
+Anonymizing Named Entities like people, organizations and locations using Named Entity Reocgnition. 
 
 ### Install and activate Python 3 virtualenv
 ```
@@ -15,4 +15,4 @@ pip install tabulate
 ```
 
 ### Run Jupyter notebook
-Refer Jupyter Notebook `anonymize.ipynb` for further modifications.
+Refer to Jupyter Notebook `anonymize.ipynb` for further modifications.
